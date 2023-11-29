@@ -6,4 +6,5 @@ print(ret1)def f1(x):
     return x[1]ret2 = sorted(names.items(), key=f1)
 print(ret2)ret3 = sorted(names.items(), key=f2)
 print(ret3)ret4 = sorted(names.items(), key=f2, reverse=True)
+ret4 = sorted(names.items(), key=f2, reverse=True)
 print(ret4)
