@@ -1,5 +1,5 @@
 names = {'Mars':10999,'Sams':2111,'Aimy':9778,'Tom':20245,
-        'Michale':27115,'Bob':5887,'Kelly':7855}
+        'Michale':27115,'Bob':5887,'Kelly':7855}
 ret1 = sorted(names)
 print(ret1)
 def f1(x):
